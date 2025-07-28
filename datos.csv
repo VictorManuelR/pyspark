@@ -1,0 +1,6 @@
+producto_id,nombre_producto,categoria,precio,stock
+101,Laptop Pro,Electronica,1200.00,50
+102,Silla Gamer,Muebles,350.50,120
+103,Teclado Mecanico,Electronica,150.75,200
+104,Mesa de Oficina,Muebles,250.00,80
+105,Monitor 4K,Electronica,800.00,75
